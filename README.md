@@ -20,9 +20,9 @@ You'll find some of my projects in this github profile!
 
 ### Projects
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconCarvalho&repo=curso-spring-ionic-frontend&theme=github_dark_dimmed&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconCarvalho&repo=curso-spring-ionic-frontend&theme=github_dark_dimmed)](https://github.com/MayconCarvalho/curso-spring-ionic-frontend)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconCarvalho&repo=curso-spring-ionic-backend&theme=github_dark_dimmed&show_owner=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconCarvalho&repo=curso-spring-ionic-backend&theme=github_dark_dimmed)](https://github.com/MayconCarvalho/curso-spring-ionic-backend)
 
 ### Languages
 
